@@ -1,0 +1,32 @@
+# Dependencies and packages
+node_modules/
+
+# Executables and object files
+*.exe
+*.obj
+*.o
+*.out
+
+# Log files
+*.log
+*.output
+*.out
+*sudoku_output*
+
+# Build artifacts
+/dist/
+/build/
+/out/
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Environment specific
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
