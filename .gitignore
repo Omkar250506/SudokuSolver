@@ -30,3 +30,22 @@ Thumbs.db
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Executables
+*.exe
+
+# Object files
+*.obj
+
+# Output files
+*.txt
+
+# Logs
+*.log
+
+# Build folders
+build/
+dist/
+
+# Node modules
+node_modules/
